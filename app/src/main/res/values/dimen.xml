@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="divider">0.5dp</dimen>
+    <dimen name="ss">4dp</dimen>
+    <dimen name="s">8dp</dimen>
+    <dimen name="m">16dp</dimen>
+    <dimen name="l">24dp</dimen>
+    <dimen name="avatarImg">64dp</dimen>
+</resources>

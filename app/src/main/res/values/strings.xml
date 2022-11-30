@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="input_label">User name</string>
+    <string name="button_label">ADD</string>
+    <string name="avatar_description">Avatar</string>
+    <string name="user_nickname_label">User Nickname</string>
+    <string name="user_name_label">User Name</string>
+    <string name="profile_button_label">VIEW REPOS</string>
+</resources>
